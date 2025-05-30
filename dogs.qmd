@@ -1,0 +1,8 @@
+---
+title: "Dogs"
+format: revealjs
+---
+
+## {background-image="dogs.png"}
+
+![](dogs.png)
