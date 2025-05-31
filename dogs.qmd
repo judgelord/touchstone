@@ -7,7 +7,7 @@ format: revealjs
 
 Where?
 
-------------------------------------------------------------- Possible location --->
+------------------------------------------------------ One possible location --->
 
 
 ## Need 
@@ -21,6 +21,8 @@ Where?
 
 
 ## Support 
+
+- A lot of thought and many discussions have already occurred
 
 
 ## Ideas 
