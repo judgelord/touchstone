@@ -1,6 +1,7 @@
 ---
-title: "NOTES ON TOUCHSTONE OFF-LEASH DOG EXERCISE AREA DISCUSSION"
+title: "NOTES ON TOUCHSTONE OFF-LEASH PET EXERCISE AREA DISCUSSION"
 format: revealjs
+scrollable: true
 ---
 
 ## {background-image="dogs.png"}
@@ -10,13 +11,16 @@ Where?
 ------------------------------------------------------ One possible location --->
 
 
+
 ## Need 
 
 - Dogs need exercise
-  - exercise makes dogs more calm
+  - Exercise makes dogs calmer
 - Dogs are happy when they can play
-- There is no dog run in walking distance, especially difficult for people who don't drive (Krista, Devin & Kristy, etc.)
-
+- There is no dog run in walking distance, especially difficult for people who don't drive (Krista, Devin & Kristy, etc)
+- Older dogs may poop or pee on pedway if there is no off-pedway place for them to walk
+- Dogs may accidentally or on purpose run free if there is no fenced-in place
+- ADA requires that we have accessible facilities---this means Jovi needs a place to run --- "this is a need and we need to separate it from everything else, which are wants." Other people thought that some other dogs getting exercise is also a need.
 
 
 
@@ -24,21 +28,58 @@ Where?
 
 - A lot of thought and many discussions have already occurred
 
+- Dogs are less likely to bark and become uncontrolled when they have a place to play
+
+- Dogs will be less present on the pedway 
+
+- Community building: people meet and hang out, and bond while dogs are playing
+
 
 ## Ideas 
 
+- Start with a park just for Jovi - Krista decides if other dogs can join. 
+
 - [Dog park club](https://thestantonfoundation.org/assets/canine/Dog-Park-Resources/UC-Davis-Study-Dog-Park-Maintenance.pdf) organizes and pays for initial construction and maintenance
 
-## Concerns 
+- Reserved time for big dogs, small dogs, and solo dogs on Gather
 
+- Can we have an interim solution for the immediate need
+
+- Liability waivers 
+
+- Would obstacles help
+
+- Get information from GO and Sunward
+
+- Sunward woods instead? 
+
+- Can people use the Saginaw forest or the soccer field instead? 
+
+## Questions 
+
+- Can it be extended to cats?
 - Will there be noise? 
 - Who will pay for it? 
 - Will it smell? 
+- Will it kill the grass?
 - Who is in charge of maintenance? 
-- Is there liability? 
-- Will there be limits on the number of dogs or who can use it? (e.g., can GO use it?)
+- Is there liability? Do we have insurance? How well do waivers work?
+- What has the city of Ann Arbor used 
+- Will there be limits on the number of dogs or on who can use it? (e.g., can GO use it?)
+- Will it take land that could be used for people to sit?
+- How will safety be managed?
+- What are the alternatives? - Are there fenced-in yards people can use? 
+
+gardeners
+cat-lovers
+beekeepers 
 
 
+
+## Concerns 
+
+- Liability
+- Some dogs (e.g., ) are not compatible 
 
 ## What does the research say? 
 
@@ -53,9 +94,23 @@ infrequent"](https://thestantonfoundation.org/assets/canine/Dog-Park-Resources/U
 Concerns to think through
 
 - ADA accessibility
-- maintenance plan
-- exercise areas rules
-  - hours
-  - number of dogs at a time
-  - user responsibilities 
-  
+- Maintenance plan
+- Exercise area rules
+  - Hours
+  - Number of dogs at a time
+  - User responsibilities 
+  - Aggressive, overly assertive, overly unruly, and undersocialized dogs should be
+discouraged 
+- Substrate (no one solution, depends on location and use)
+
+## Resources 
+
+[Ann Arbor FAQ](https://www.a2gov.org/media/3hejro40/veterans_popup_faq_2024.pdf)
+
+[Guidelines from Dr. Hart, Veterinary Behavioral Medicine, UC Davis School of Veterinary Medicine](https://thestantonfoundation.org/assets/canine/Dog-Park-Resources/UC-Davis-Study-Dog-Park-Maintenance.pdf)
+
+
+## Volunteers
+
+- Liz volunteers to install a fence
+
