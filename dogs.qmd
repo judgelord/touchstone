@@ -1,49 +1,76 @@
 ---
-title: "NOTES ON TOUCHSTONE OFF-LEASH PET EXERCISE AREA DISCUSSION"
+title: "Notes on Touchstone pet excercise area discussion"
 format: revealjs
 scrollable: true
+title-slide-attributes:
+    data-background-image: https://www.touchstonecohousing.org/wp-content/uploads/2015/01/panorama.jpg
+    data-background-size: cover
+    data-background-opacity: "0.3"
+# background-image: https://www.touchstonecohousing.org/wp-content/uploads/2015/01/panorama.jpg
+# background-size: cover
+# background-opacity: "0.1"
 ---
 
-## {background-image="dogs.png"}
 
-Where?
+## Where? {.inverse background-image="dogs.png"}
 
------------------------------------------------------- One possible location --->
+
+------------------------------------------------------- One possible location →
+
+## Where? {.inverse background-image="figs/dog-gates.png"}
+
 
 
 
 ## Need 
 
-- Dogs need exercise
+- Dogs need exercise and social time
   - Exercise makes dogs calmer
-- Dogs are happy when they can play
 - There is no dog run in walking distance, especially difficult for people who don't drive (Krista, Devin & Kristy, etc)
 - Older dogs may poop or pee on pedway if there is no off-pedway place for them to walk
-- Dogs may accidentally or on purpose run free if there is no fenced-in place
+- Dogs may run free if there is no fenced-in place
 - ADA requires that we have accessible facilities---this means Jovi needs a place to run --- "this is a need and we need to separate it from everything else, which are wants." Other people thought that some other dogs getting exercise is also a need.
 
 
 
 ## Support 
 
-- A lot of thought and many discussions have already occurred
+- A lot of thought and discussion has already occurred
 
-- Dogs are less likely to bark and become uncontrolled when they have a place to play
+- Dogs are less likely to bark and lose control when they play
 
 - Dogs will be less present on the pedway 
 
-- Community building: people meet and hang out, and bond while dogs are playing
+- People meet and hang out, and bond while dogs are playing
+
+## TS Values 
+
+
+## Principles 
+
+- Saftey 
+- Accessability
+- Community building 
+- TBD 
+
+## Criteria / Factors 
+
+The solution: 
+
+- Does not decrease saftey for non-users
+- Accessable to visually-impaired 
+- If space was planned to be used for another purpose, we have a thoughful discussion about how to ballence space tradoffs
+- Considers the character of the entrance way 
+- TBD
 
 
 ## Ideas 
 
-- Start with a park just for Jovi - Krista decides if other dogs can join. 
+- Can we have an interim solution for the immediate need? (e.g., start with a Jovi run: Krista allow other dogs to join) 
 
-- [Dog park club](https://thestantonfoundation.org/assets/canine/Dog-Park-Resources/UC-Davis-Study-Dog-Park-Maintenance.pdf) organizes and pays for initial construction and maintenance
+- [Dog park club](https://thestantonfoundation.org/assets/canine/Dog-Park-Resources/UC-Davis-Study-Dog-Park-Maintenance.pdf)  pays for construction and maintenance
 
-- Reserved time for big dogs, small dogs, and solo dogs on Gather
-
-- Can we have an interim solution for the immediate need
+- Reserve time for big, small, and solo dogs on Gather
 
 - Liability waivers 
 
@@ -53,9 +80,23 @@ Where?
 
 - Sunward woods instead? 
 
-- Can people use the Saginaw forest or the soccer field instead? 
+- Can people use Saginaw forest or the soccer field? 
 
-## Questions 
+## Questions with answers 
+
+Q:  Can't Jovi just run in the Soccer field
+
+- no, Jovi cannot be off leash. Jovi needs a secure fenced-in area
+
+Q: Can't Jovi just go to dog parks
+
+- no
+
+
+
+
+
+## Questions without answers
 
 - Can it be extended to cats?
 - Will there be noise? 
@@ -64,15 +105,11 @@ Where?
 - Will it kill the grass?
 - Who is in charge of maintenance? 
 - Is there liability? Do we have insurance? How well do waivers work?
-- What has the city of Ann Arbor used 
+- What has the city of Ann Arbor used?
 - Will there be limits on the number of dogs or on who can use it? (e.g., can GO use it?)
 - Will it take land that could be used for people to sit?
 - How will safety be managed?
 - What are the alternatives? - Are there fenced-in yards people can use? 
-
-gardeners
-cat-lovers
-beekeepers 
 
 
 
@@ -83,7 +120,7 @@ beekeepers
 
 ## What does the research say? 
 
-Common concerns that research shows to be ["relatively
+Common concerns research shows are ["relatively
 infrequent"](https://thestantonfoundation.org/assets/canine/Dog-Park-Resources/UC-Davis-Study-Dog-Park-Maintenance.pdf) 
 
 - safety to humans and other dogs
@@ -91,7 +128,9 @@ infrequent"](https://thestantonfoundation.org/assets/canine/Dog-Park-Resources/U
 - sanitation problems from the build-up of feces
 - disturbance of wildlife or native plants
 
-Concerns to think through
+## What does the research say? 
+
+Concerns researchers suggetss we think through
 
 - ADA accessibility
 - Maintenance plan
@@ -105,12 +144,72 @@ discouraged
 
 ## Resources 
 
-[Ann Arbor FAQ](https://www.a2gov.org/media/3hejro40/veterans_popup_faq_2024.pdf)
-
-[Guidelines from Dr. Hart, Veterinary Behavioral Medicine, UC Davis School of Veterinary Medicine](https://thestantonfoundation.org/assets/canine/Dog-Park-Resources/UC-Davis-Study-Dog-Park-Maintenance.pdf)
+- [Ann Arbor FAQ](https://www.a2gov.org/media/3hejro40/veterans_popup_faq_2024.pdf)
+- [Guidelines from Dr. Hart, Veterinary Behavioral Medicine, UC Davis School of Veterinary Medicine](https://thestantonfoundation.org/assets/canine/Dog-Park-Resources/UC-Davis-Study-Dog-Park-Maintenance.pdf)
 
 
 ## Volunteers
 
 - Liz volunteers to install a fence
+- Hob, Melissa, Anne, wants to be part of the group
 
+# Feedback 
+
+## Stan Towers
+
+> "Some of us old timers spent many long hours, even before the first seven buildings were constructed, watering the trees and shrubbery located in this area to make it presentable.  I believe we felt that this is what visitors would see first when they drove into our community.  To us "originals" this was a way of showing our pride in Touchstone and what the concept of cohousing meant to us...Location is the most critical factor for our potential support for a community dog exercise area...I am sure alternative solutions can be found that take into consideration dog safety, owner safety, area construction possibilities, and area maintenance."
+
+
+## Melissa 
+
+> "A chart/table that shows:   Data (But not JUST data) really helps me to understand the situation: 
+
+1. How many people (units) have dogs? 
+
+2.  How many people have cats
+
+3.  How many people have no pets
+
+4. How many people have children?????
+
+
+> For me, Our cats and dogs are family members and I treat them as such. Could this situation be compared to how we accommodate for children in the community….playground, CH playroom, toys and bikes, etc.
+
+> What is the level of urgency"
+
+##  Mary Eicher
+
+> Sounds like two separate issues are involved.
+
+1. Jovi needs to stay away from other dogs. 
+2. Dog Parks would need to follow same legalities and rules that apply to public dog parks. 
+
+##  Laura Coddington
+
+> I am okay with a dog run depending on the location and wanted to clarify that. The stretch of greenspace with trees in our far east north corner is not a location I support for several reasons. That modest green space serves as a tranquil area for individuals to sit, relax, and meditate. I use it sometimes. 
+
+> I think having a fenced off area as you enter TS, with limited use for only dogs is restrictive and unwelcoming. There’s no way I’d want us to have to police outside access (non-TS residents) from using it. I would like to avoid signage that suggests private property or TS dogs only, especially just as people are entering TS. It would need at least a 5-foot fence to ensure a large dog couldn’t jump out if they saw another dog and there may be height restrictions on being next to a sidewalk. 
+
+> There seems to be an ideal location behind [GO's] workshop, even bordering our retaining area, that could then be potentially used by both communities. 
+
+> A location I would support is anywhere along the far west border of TS...It also takes it away from easy public access and visibility thus removing a lot of the liability concerns or need for restrictive signage. With all that said, I’d like to see several location options in the proposal with pros and cons to hear what others think.  
+
+## Asaf Cohen
+
+> I support for the idea of a dog park in our community. I believe this would be a great addition for a number of reasons, particularly from the dogs' perspective.
+For dogs, having a dedicated space to run, play, and socialize is incredibly important. Without a proper dog park, many dogs do not have the freedom to exercise properly. A dog park would provide a safe, enclosed space for them to burn off energy, interact with other dogs, and enjoy some time off-leash in a controlled environment.
+
+> Additionally, it could foster more interaction among residents and offer a more organized, controlled environment for dogs and owners.
+
+> Overall, I believe that a dog park would improve both the physical and mental well-being of the dogs in our neighborhood, and it would offer a practical solution for pet owners.
+
+## Lois Donelson
+
+1 - Will more exercise really take care of [Jovi's needs]? 
+2 - If it is perceived that the need of one resident is important, then it could be pursued.  But NOT unless legal and finance and the insurance agent for TS says there is a way to do it.
+3 - I also strongly think that there should be a "trial period" as with any new idea... with some provision that if it does not work - for whatever reason- it is undone.
+4 - People who come with a dog to a new place are responsible for reorienting your pet to their surroundings. 
+
+## Krista
+
+> I do not want the community to be too invested in finding a solution for just me and Jovi. 

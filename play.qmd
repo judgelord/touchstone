@@ -1,0 +1,86 @@
+---
+title: "Notes on Touchstone Outdoor Projects discussions"
+format: revealjs
+scrollable: true
+title-slide-attributes:
+    data-background-image: https://www.touchstonecohousing.org/wp-content/uploads/2015/01/panorama.jpg
+    data-background-size: cover
+    data-background-opacity: "0.3"
+# background-image: https://www.touchstonecohousing.org/wp-content/uploads/2015/01/panorama.jpg
+# background-size: cover
+# background-opacity: "0.1"
+---
+
+# History {background-image="outdoor-projects/patio.png" background-size="cover" background-opacity=".1"}
+
+Outdoor projects visioning process 
+
+- consensus on a general vision
+- many additional committee discussion
+
+Fall 2025 Plenary 
+
+- most people seemed ready to consent on moving forward with constructing a sandbox and toy storage 
+- but Devin asked for an itemized budget
+- many additional committee discussion
+
+
+
+
+# Overview of feedback {background-image="outdoor-projects/kids.jpeg" background-size="cover" background-opacity=".2"}
+
+From parents
+
+- keep kids in sight and away from cars
+
+From kids
+
+- a tall slide and a big sandbox please
+
+Other community members 
+
+- contain toys
+- make it look nice
+
+
+# Sandbox
+
+## Where? {background-image="outdoor-projects/sandbox2.png" background-size="contain"}
+
+
+
+## Where? {background-image="outdoor-projects/sand_small.jpg" background-size="contain"}
+
+# Community Toy Storage
+
+
+
+## Community Toy Storage Location {background-image="outdoor-projects/toys_small.jpg" background-size="contain"}
+
+## Community Toy Storage: Why?  {background-image="outdoor-projects/scooter.jpeg" background-size="contain"}
+
+## Community Toy Storage: Why?  {background-image="outdoor-projects/scooter2.jpeg" background-size="contain"}
+
+## Community Toy Storage: Why?  {background-image="outdoor-projects/trike2.jpeg" background-size="contain"}
+
+## Community Toy Storage: Why?  {background-image="outdoor-projects/trike.jpeg" background-size="contain"}
+
+## Community Toy Storage: Why?  {background-image="outdoor-projects/truck.jpeg" background-size="contain"}
+
+
+
+## Community Toy Storage Design
+
+- The shed-style roof will be of thick steel, charcoal to match the gazebo. 
+- The steep slope, 5 feet high at the front, 2 feet high at the back, is designed to keep snow, leaves, and kids off. 
+- Being 5-feet tall at the tall end will **minimize visual impact**. Most community members' sightlines will not be blocked unless they are standing right in front of it. 
+- The north-facing edge, being 2 feet tall also greatly reduces the risk of **wind damage**. 
+
+## Community Toy Storage {background-image="outdoor-projects/shed.png" background-size="contain"}
+
+
+
+
+# Extra 
+
+## Alternative Sandbox Location {.inverse background-image="outdoor-projects/sandbox_alt_s.jpg"}
