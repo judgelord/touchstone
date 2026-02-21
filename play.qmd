@@ -42,7 +42,7 @@ Other community members
 - contain toys
 - make it look nice
 
-## Sightline  {background-image="sightline.png" background-size="contain"}
+## Sightline {background-image="outdoor-projects/master-plan.png" background-size="contain"}
 
 
 # Sandbox
